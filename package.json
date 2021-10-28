@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat_dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JohnOmena/rocketseat_dev.git",
+  "author": "John Omena <jvfo@ic.ufal.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
